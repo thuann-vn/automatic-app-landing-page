@@ -8,17 +8,17 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Ex.Ma                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Mi?n ph?                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : H?y theo d?i chi ti?u c?a b?n ngay t? b?y gi?!
+app_price                                 : Miễn phí                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Hãy theo dõi chi tiêu của bạn ngay từ bây giờ!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Th?a Nguy?n                             
+your_name                                 : Thừa Nguyễn                             
 your_link                                 : https://thuanguyen.info                     
-your_city                                 : Vi?t Nam                                
+your_city                                 : Việt Nam                                
 email_address                             : ngocthua92@live.com
 facebook_username                         :                                           
 instagram_username                        : zthuanguyen
@@ -31,40 +31,40 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Theo d?i chi ti?u
-    description                           : Qu?n l? chi ti?u hi?u qu? v? ti?t ki?m nhi?u h?n!
+  - title                                 : Theo dõi chi tiêu
+    description                           : Quản lý chi tiêu hiệu quả và tiết kiệm nhiều hơn!
     fontawesome_icon_name                 : piggy-bank
     
-  - title                                 : L?ch s? thu chi
-    description                           : Xem v? t?m ki?m c?c kho?n chi d? d?ng.
+  - title                                 : Lịch sử thu chi
+    description                           : Xem và tìm kiếm các khoản chi dễ dàng.
     fontawesome_icon_name                 : history
 
-  - title                                 : B?o c?o
-    description                           : C? c?i nh?n t?ng quan nh?t v? c?c kho?n thu chi c?a b?n.
+  - title                                 : Báo cáo
+    description                           : Có cái nhìn tổng quan nhất về các khoản thu chi của bạn.
     fontawesome_icon_name                 : chart-line
 
-  - title                                 : L?n k? ho?ch thu chi
-    description                           : H? tr? b?n qu?n l? thu chi theo s? ki?n v? th?m h?n m?c chi ti?u.
+  - title                                 : Lên kế hoạch thu chi
+    description                           : Hỗ trợ bạn quản lý thu chi theo sự kiện và thêm hạn mức chi tiêu.
     fontawesome_icon_name                 : bullseye
 
-  - title                                 : Giao d?ch ??nh k?
-    description                           : C?c giao d?ch t? ??ng h?ng th?ng s? t? ??ng th?m v?o cho b?n.
+  - title                                 : Giao dịch định kỳ
+    description                           : Các giao dịch tự động hàng tháng sẽ tự động thêm vào cho bạn.
     fontawesome_icon_name                 : magic
   
-  - title                                 : B?o v? d? li?u c?a b?n
-    description                           : H? tr? thi?t l?p m? PIN cho ?ng d?ng c?ng nh? s? d?ng v?n tay v? nh?n di?n g??ng m?t.
+  - title                                 : Bảo vệ dữ liệu của bạn
+    description                           : Hỗ trợ thiết lập mã PIN cho ứng dụng cũng như sử dụng vân tay và nhận diện gương mặt.
     fontawesome_icon_name                 : shield-alt
 
-  - title                                 : Sao l?u d? li?u
-    description                           : D? li?u c?a b?n s? ???c sao l?u h?ng ng?y.
+  - title                                 : Sao lưu dữ liệu
+    description                           : Dữ liệu của bạn sẽ được sao lưu hàng ngày.
     fontawesome_icon_name                 : database
 
-  - title                                 : Mi?n ph?
-    description                           : Ch?ng t?i h?a s? c?p nh?t ?ng d?ng ??u ??n ?? th?m c?c t?n n?ng m?i.
+  - title                                 : Miễn phí
+    description                           : Chúng tôi hứa sẽ cập nhật ứng dụng đều đặn để thêm các tín năng mới.
     fontawesome_icon_name                 : heart
 
-  - title                                 : Nhi?u th? kh?c n?a!
-    description                           : Ch?ng t?i c? g?ng mang ??n nhi?u t?nh n?ng ?? b?n d? d?ng qu?ng l? chi ti?u h?n bao gi? h?t.
+  - title                                 : Nhiều thứ khác nữa!
+    description                           : Chúng tôi cố gắng mang đến nhiều tính năng để bạn dễ dàng quảng lý chi tiêu hơn bao giờ hết.
     fontawesome_icon_name                 : app-store-ios
 
   - title                                 : # New Feature Title
