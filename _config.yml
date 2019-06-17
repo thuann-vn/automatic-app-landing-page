@@ -8,17 +8,17 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Ex.Ma                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Let's tracks your expenses today and saving money on tomorow!
+app_price                                 : Mi?n ph?                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : H?y theo d?i chi ti?u c?a b?n ngay t? b?y gi?!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Thua Nguyen                                
+your_name                                 : Th?a Nguy?n                             
 your_link                                 : https://thuanguyen.info                     
-your_city                                 : Viet Nam                                
+your_city                                 : Vi?t Nam                                
 email_address                             : ngocthua92@live.com
 facebook_username                         :                                           
 instagram_username                        : zthuanguyen
@@ -31,40 +31,40 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track expenses
-    description                           : Keep to track expienses and save your money!
+  - title                                 : Theo d?i chi ti?u
+    description                           : Qu?n l? chi ti?u hi?u qu? v? ti?t ki?m nhi?u h?n!
     fontawesome_icon_name                 : piggy-bank
     
-  - title                                 : See and find expenses easier
-    description                           : Overview your expense month by month.
+  - title                                 : L?ch s? thu chi
+    description                           : Xem v? t?m ki?m c?c kho?n chi d? d?ng.
     fontawesome_icon_name                 : history
 
-  - title                                 : Report
-    description                           : Beautiful and useful report to see the flow of money.
+  - title                                 : B?o c?o
+    description                           : C? c?i nh?n t?ng quan nh?t v? c?c kho?n thu chi c?a b?n.
     fontawesome_icon_name                 : chart-line
 
-  - title                                 : Plan to expense
-    description                           : Support to track expense by event and limit by budget.
+  - title                                 : L?n k? ho?ch thu chi
+    description                           : H? tr? b?n qu?n l? thu chi theo s? ki?n v? th?m h?n m?c chi ti?u.
     fontawesome_icon_name                 : bullseye
 
-  - title                                 : Recurring Transaction
-    description                           : Add transaction monthly automatically.
+  - title                                 : Giao d?ch ??nh k?
+    description                           : C?c giao d?ch t? ??ng h?ng th?ng s? t? ??ng th?m v?o cho b?n.
     fontawesome_icon_name                 : magic
   
-  - title                                 : Secure your data
-    description                           : Support application pin code, login by Fingerprint or Face iD.
+  - title                                 : B?o v? d? li?u c?a b?n
+    description                           : H? tr? thi?t l?p m? PIN cho ?ng d?ng c?ng nh? s? d?ng v?n tay v? nh?n di?n g??ng m?t.
     fontawesome_icon_name                 : shield-alt
 
-  - title                                 : Backup Data
-    description                           : Backup your data automatically every day.
+  - title                                 : Sao l?u d? li?u
+    description                           : D? li?u c?a b?n s? ???c sao l?u h?ng ng?y.
     fontawesome_icon_name                 : database
 
-  - title                                 : Free Forever
-    description                           : We promise that's our application alway free and free forever.
+  - title                                 : Mi?n ph?
+    description                           : Ch?ng t?i h?a s? c?p nh?t ?ng d?ng ??u ??n ?? th?m c?c t?n n?ng m?i.
     fontawesome_icon_name                 : heart
 
-  - title                                 : Free Icon Packs
-    description                           : Unlimited download icon packs free.
+  - title                                 : Nhi?u th? kh?c n?a!
+    description                           : Ch?ng t?i c? g?ng mang ??n nhi?u t?nh n?ng ?? b?n d? d?ng qu?ng l? chi ti?u h?n bao gi? h?t.
     fontawesome_icon_name                 : app-store-ios
 
   - title                                 : # New Feature Title
